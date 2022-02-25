@@ -1,0 +1,3 @@
+# Override default language detection
+*.html linguist-detectable=false
+*.ipynb linguist-language=Python
